@@ -1,0 +1,4 @@
+back_tyre
+front_tyre
+handle_bar
+seat
